@@ -1,0 +1,10 @@
+{
+    "postgres_details": {
+        "db_host": "dcaldd1016",
+        "db_port": "5432",
+        "db_database": "learning_rate",
+        "db_user": "lr_pguser",
+        "db_pass": "lr_pgpass"
+    }
+
+}

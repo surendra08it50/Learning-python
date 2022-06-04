@@ -1,0 +1,12 @@
+{
+    "postgres_details": {
+        "db_host": "dcaldd2498",
+    "db_port": "8123",
+    "db_database": "aix_analytics",
+    "db_user": "aix_user",
+    "db_pass": "Aixuser@2022"
+    },
+    "output_table_name":"OWPS_DRIFT_aic_owps_drift_op_21",
+    "output_table_name_new":"OWPS_DRIFT_aic_owps_drift_op_39"
+
+}
